@@ -73,7 +73,7 @@ So that I can trust and understand my name (or another person’s name) correctl
    - Transliteration
    - Meaning
    - Origin / category (if available)
-   - Explanation of Yoruba adaptation
+   - Explanation of Yoruba adaptation (if available)
    - Confidence indicator
 
 Optional secondary action:
@@ -149,7 +149,7 @@ Each result should include:
    - Transliteration
 
 2. **Pronunciation**
-   - Audio pronunciation for both the correct Arabic form of the name
+   - Audio pronunciation for the correct Arabic form of the name
 
 3. **Meaning**
    - Theologically accurate
@@ -161,7 +161,7 @@ Each result should include:
    - Companion name
    - Classical Arabic name
 
-5. **Yoruba Adaptation Explanation**
+5. **Yoruba Adaptation Explanation** (If available)
    - Short linguistic explanation
    - Focus on phonology and oral transmission
 
