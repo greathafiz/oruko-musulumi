@@ -1,17 +1,17 @@
 {
   "$schema": "https://ui.shadcn.com/schema.json",
-  "style": "radix-lyra",
+  "style": "base-maia",
   "rsc": true,
   "tsx": true,
   "tailwind": {
     "config": "",
     "css": "app/globals.css",
-    "baseColor": "neutral",
+    "baseColor": "stone",
     "cssVariables": true,
     "prefix": ""
   },
   "iconLibrary": "phosphor",
-  "rtl": false,
+  "rtl": true,
   "aliases": {
     "components": "@/components",
     "utils": "@/lib/utils",
