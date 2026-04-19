@@ -1,0 +1,218 @@
+[
+  {
+    "id": "cn-001",
+    "arabic_name": "عَبْدُ السَّمِيع",
+    "transliteration": "ʿAbd al-Samīʿ",
+    "pronunciation_en": "abd-us-sa-MEEH",
+    "meaning": "Servant of the All-Hearing (one of Allah's 99 names)",
+    "category": "asmaul-husna",
+    "origin_notes": "Compound of ʿabd (servant) + al-Samīʿ (the All-Hearing, Qur'an 2:127)"
+  },
+  {
+    "id": "cn-002",
+    "arabic_name": "سُلَيْمَان",
+    "transliteration": "Sulaymān",
+    "pronunciation_en": "su-lay-MAAN",
+    "meaning": "Peace; name of the Prophet-King Solomon",
+    "category": "prophet",
+    "origin_notes": "From Semitic root sh-l-m (peace/wholeness). The Qur'anic Prophet Sulaymān (Solomon) was granted dominion over wind, animals, and jinn."
+  },
+  {
+    "id": "cn-003",
+    "arabic_name": "إِبْرَاهِيم",
+    "transliteration": "Ibrāhīm",
+    "pronunciation_en": "ib-raa-HEEM",
+    "meaning": "Father of many nations",
+    "category": "prophet",
+    "origin_notes": "Arabicised form of the Hebrew Avraham. Prophet Ibrāhīm is called Khalīlullāh (the Friend of God) in Islamic tradition."
+  },
+  {
+    "id": "cn-004",
+    "arabic_name": "عَبْدُ الْعَزِيز",
+    "transliteration": "ʿAbd al-ʿAzīz",
+    "pronunciation_en": "abd-ul-a-ZEEZ",
+    "meaning": "Servant of the Almighty / the Most Honourable",
+    "category": "asmaul-husna",
+    "origin_notes": "al-ʿAzīz is one of the 99 names of Allah, meaning the Invincible, the Almighty (Qur'an 59:23)."
+  },
+  {
+    "id": "cn-005",
+    "arabic_name": "فَوْزِيَّة",
+    "transliteration": "Fawziyyah",
+    "pronunciation_en": "faw-ZEE-ya",
+    "meaning": "Successful; triumphant",
+    "category": "classical",
+    "origin_notes": "Feminine form of Fawzī, from the root f-w-z (to succeed, to attain)."
+  },
+  {
+    "id": "cn-006",
+    "arabic_name": "مَرْيَم",
+    "transliteration": "Maryam",
+    "pronunciation_en": "MAR-yam",
+    "meaning": "Beloved; name of the mother of Prophet ʿĪsā (Jesus)",
+    "category": "quranic",
+    "origin_notes": "The only woman mentioned by name in the Qur'an. Sūrat Maryam (Chapter 19) is named after her."
+  },
+  {
+    "id": "cn-007",
+    "arabic_name": "رَاضِيَة",
+    "transliteration": "Rāḍiyah",
+    "pronunciation_en": "raa-DI-ya",
+    "meaning": "Satisfied; content; pleased with Allah's decree",
+    "category": "quranic",
+    "origin_notes": "From the root r-ḍ-y (to be pleased/content). Used in Qur'an 88:9 describing souls in Paradise."
+  },
+  {
+    "id": "cn-008",
+    "arabic_name": "شُكُور",
+    "transliteration": "Shakūr",
+    "pronunciation_en": "sha-KOOR",
+    "meaning": "Very grateful; one who gives thanks abundantly",
+    "category": "asmaul-husna",
+    "origin_notes": "al-Shakūr is one of the 99 names of Allah (Qur'an 35:30)."
+  },
+  {
+    "id": "cn-009",
+    "arabic_name": "مُطِيع",
+    "transliteration": "Muṭīʿ",
+    "pronunciation_en": "mu-TEE",
+    "meaning": "Obedient; compliant; one who follows Allah's commands",
+    "category": "classical",
+    "origin_notes": "From the root ṭ-w-ʿ (to obey). A classical Arabic name indicating religious devotion."
+  },
+  {
+    "id": "cn-010",
+    "arabic_name": "رَمَضَان",
+    "transliteration": "Ramaḍān",
+    "pronunciation_en": "ra-ma-DAAN",
+    "meaning": "The holy month of fasting; burning heat",
+    "category": "quranic",
+    "origin_notes": "From r-m-ḍ (intense heat). Named after the pre-Islamic hot month. Now the 9th month of the Islamic calendar. Children born in this month are sometimes given this name."
+  },
+  {
+    "id": "cn-012",
+    "arabic_name": "زَيْنَب",
+    "transliteration": "Zaynab",
+    "pronunciation_en": "ZAY-nab",
+    "meaning": "Fragrant tree; adorned",
+    "category": "companion",
+    "origin_notes": "Name of the daughter of the Prophet Muḥammad (peace be upon him). Also the name of a tree with fragrant flowers."
+  },
+  {
+    "id": "cn-013",
+    "arabic_name": "عَبْدُ الرَّحْمَن",
+    "transliteration": "ʿAbd al-Raḥmān",
+    "pronunciation_en": "abd-ur-RAH-man",
+    "meaning": "Servant of the Most Merciful",
+    "category": "asmaul-husna",
+    "origin_notes": "al-Raḥmān is one of the supreme names of Allah (Qur'an 1:1). One of the most beloved names in Islam."
+  },
+  {
+    "id": "cn-014",
+    "arabic_name": "لَطِيفَة",
+    "transliteration": "Laṭīfah",
+    "pronunciation_en": "la-TEE-fa",
+    "meaning": "Gentle; subtle; kind",
+    "category": "classical",
+    "origin_notes": "Feminine form of Laṭīf (al-Laṭīf is one of the 99 names of Allah meaning the Most Subtle, Qur'an 6:103). Used as a female personal name."
+  },
+  {
+    "id": "cn-015",
+    "arabic_name": "سَعِيد",
+    "transliteration": "Saʿīd",
+    "pronunciation_en": "sa-EED",
+    "meaning": "Happy; fortunate; blessed",
+    "category": "classical",
+    "origin_notes": "From s-ʿ-d (to be happy, to be blessed). One of the most common classical Arabic names."
+  },
+  {
+    "id": "cn-016",
+    "arabic_name": "حَفْصَة",
+    "transliteration": "Ḥafṣah",
+    "pronunciation_en": "HAF-sa",
+    "meaning": "Young lioness; protective mother",
+    "category": "companion",
+    "origin_notes": "Name of the daughter of ʿUmar ibn al-Khaṭṭāb and wife of the Prophet Muḥammad (peace be upon him)."
+  },
+  {
+    "id": "cn-017",
+    "arabic_name": "عَبْدُ اللَّه",
+    "transliteration": "ʿAbdullāh",
+    "pronunciation_en": "ab-DUL-lah",
+    "meaning": "Servant of Allah",
+    "category": "classical",
+    "origin_notes": "The most common and highly recommended name in Islam. Name of the Prophet's father."
+  },
+  {
+    "id": "cn-018",
+    "arabic_name": "مُحَمَّد",
+    "transliteration": "Muḥammad",
+    "pronunciation_en": "mu-HAM-mad",
+    "meaning": "Praised; praiseworthy",
+    "category": "prophet",
+    "origin_notes": "The name of the final Prophet of Islam. From ḥ-m-d (to praise). One of the most common names in the world."
+  },
+  {
+    "id": "cn-019",
+    "arabic_name": "عَائِشَة",
+    "transliteration": "ʿĀ'ishah",
+    "pronunciation_en": "aa-EE-sha",
+    "meaning": "She who lives; lively; full of life",
+    "category": "companion",
+    "origin_notes": "Wife of the Prophet Muḥammad (peace be upon him) and one of the greatest Islamic scholars. From ʿ-y-sh (to live)."
+  },
+  {
+    "id": "cn-020",
+    "arabic_name": "يُوسُف",
+    "transliteration": "Yūsuf",
+    "pronunciation_en": "YOO-suf",
+    "meaning": "Allah increases; He shall add",
+    "category": "prophet",
+    "origin_notes": "Arabicised form of Hebrew Yosef. The Qur'anic Prophet Yūsuf's story is told in Sūrat Yūsuf (Chapter 12) — described as the most beautiful of stories."
+  },
+  {
+    "id": "cn-021",
+    "arabic_name": "أُمُّ كُلْثُوم",
+    "transliteration": "Umm Kulthūm",
+    "pronunciation_en": "um-kul-THOOM",
+    "meaning": "Mother of Kulthūm; epithet indicating a woman of status",
+    "category": "companion",
+    "origin_notes": "Name of two daughters of the Prophet Muḥammad (peace be upon him). The epithet Umm Kulthūm became a term of honour for a respected woman."
+  },
+  {
+    "id": "cn-022",
+    "arabic_name": "رَحْمَة",
+    "transliteration": "Raḥmah",
+    "pronunciation_en": "RAH-ma",
+    "meaning": "Mercy; compassion",
+    "category": "quranic",
+    "origin_notes": "From r-ḥ-m (mercy). A beautiful Qur'anic concept used as a female name."
+  },
+  {
+    "id": "cn-023",
+    "arabic_name": "صَفِيَّة",
+    "transliteration": "Ṣafiyyah",
+    "pronunciation_en": "sa-FEE-ya",
+    "meaning": "Pure; untroubled; best friend",
+    "category": "companion",
+    "origin_notes": "Name of a wife of the Prophet Muḥammad (peace be upon him) and several female companions. From ṣ-f-w (purity, clarity)."
+  },
+  {
+    "id": "cn-024",
+    "arabic_name": "خَدِيجَة",
+    "transliteration": "Khadījah",
+    "pronunciation_en": "kha-DEE-ja",
+    "meaning": "Premature child; born early",
+    "category": "companion",
+    "origin_notes": "Name of the first wife of the Prophet Muḥammad, the first Muslim, and one of the four greatest women in Islam."
+  },
+  {
+    "id": "cn-025",
+    "arabic_name": "مُصْطَفَى",
+    "transliteration": "Muṣṭafā",
+    "pronunciation_en": "mus-ta-FAA",
+    "meaning": "The chosen one; the selected",
+    "category": "prophet",
+    "origin_notes": "An honorific of the Prophet Muḥammad. From ṣ-f-w (to choose, to purify). Muṣṭafā is one of the Prophet's 99 names."
+  }
+]

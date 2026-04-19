@@ -211,32 +211,9 @@ Fields:
 - `category`
 - `origin_notes`
 
-Stores authoritative Arabic data.
-
-Fields:
-
-- `id`
-- `arabic_name`
-- `transliteration`
-- `meaning`
-- `category`
-- `origin_notes`
-
 ---
 
 ### 7.2 Variants Table
-
-Maps Yoruba-adapted forms to canonical names.
-
-Fields:
-
-- `id`
-- `input_variant`
-- `normalized_variant`
-- `canonical_name_id`
-- `yoruba_pronunciation` _(text-based phonetic guide)_
-- `confidence`
-- `notes`
 
 Maps Yoruba-adapted forms to canonical names.
 

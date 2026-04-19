@@ -1,0 +1,236 @@
+[
+  {
+    "id": "v-001",
+    "input_variant": "Abdulsemiu",
+    "normalized_variant": "abdulsemiu",
+    "canonical_name_id": "cn-001",
+    "yoruba_pronunciation": "Ab-dúl-sé-mi-ù",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'ʿAbd al-Samīʿ' was borrowed orally into Yorùbá speech. 'Samīʿ' (سَمِيع) became 'Semiu' through vowel fronting (ā→e) and the addition of a final vowel (common in Yorùbá phonotactics, which disfavours word-final consonants). 'ʿAbd al-' was resyllabified as 'Abdul'."
+  },
+  {
+    "id": "v-002",
+    "input_variant": "Abdulsamiu",
+    "normalized_variant": "abdulsamiu",
+    "canonical_name_id": "cn-001",
+    "yoruba_pronunciation": "Ab-dúl-sa-mi-ù",
+    "confidence": "high",
+    "adaptation_notes": "An alternative Yorùbá spelling retaining the 'a' vowel closer to the Arabic original. Both 'Abdulsamiu' and 'Abdulsemiu' map to the same canonical name."
+  },
+  {
+    "id": "v-003",
+    "input_variant": "Sulaimon",
+    "normalized_variant": "sulaimon",
+    "canonical_name_id": "cn-002",
+    "yoruba_pronunciation": "Su-lai-mọ̀n",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Sulaymān' (سُلَيْمَان) lost the final nasalised long vowel (ān→on) and gained an open 'o' characteristic of Yorùbá, because Yorùbá syllables tend to be open (CV). The diphthong 'ay' was retained as 'ai'."
+  },
+  {
+    "id": "v-004",
+    "input_variant": "Suleiman",
+    "normalized_variant": "suleiman",
+    "canonical_name_id": "cn-002",
+    "yoruba_pronunciation": "Su-lei-man",
+    "confidence": "high",
+    "adaptation_notes": "A more standard English/West African spelling of the same Arabic name Sulaymān. The final ān is retained as 'an'. Common in written forms and official documents."
+  },
+  {
+    "id": "v-005",
+    "input_variant": "Soloman",
+    "normalized_variant": "soloman",
+    "canonical_name_id": "cn-002",
+    "yoruba_pronunciation": "Só-lo-man",
+    "confidence": "medium",
+    "adaptation_notes": "A Yorùbá rendering influenced by the English 'Solomon'. The diphthong was collapsed and the 'u' became 'o'. This form is occasionally used but is further from the Arabic original."
+  },
+  {
+    "id": "v-006",
+    "input_variant": "Ibraheem",
+    "normalized_variant": "ibraheem",
+    "canonical_name_id": "cn-003",
+    "yoruba_pronunciation": "Ib-ra-hìm",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Ibrāhīm' (إِبْرَاهِيم) was adapted with a doubled 'ee' to represent the long vowel ī. This spelling is extremely common in Yorùbá Muslim communities and Nigerian official documents."
+  },
+  {
+    "id": "v-007",
+    "input_variant": "Ibrahim",
+    "normalized_variant": "ibrahim",
+    "canonical_name_id": "cn-003",
+    "yoruba_pronunciation": "Ib-ra-him",
+    "confidence": "high",
+    "adaptation_notes": "Standard transliteration used across the Muslim world. The long ī is written as a single 'i' without the gemination. Both 'Ibrahim' and 'Ibraheem' refer to the same Arabic name."
+  },
+  {
+    "id": "v-008",
+    "input_variant": "Azeez",
+    "normalized_variant": "azeez",
+    "canonical_name_id": "cn-004",
+    "yoruba_pronunciation": "À-zèés",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'ʿAbd al-ʿAzīz' is often shortened to just 'Azeez' in Yorùbá usage. The 'ʿAbd al-' prefix is dropped entirely, which is a common Yorùbá pattern — the name is reduced to the epithet alone."
+  },
+  {
+    "id": "v-009",
+    "input_variant": "Abdulaziz",
+    "normalized_variant": "abdulaziz",
+    "canonical_name_id": "cn-004",
+    "yoruba_pronunciation": "Ab-dúl-a-ziz",
+    "confidence": "high",
+    "adaptation_notes": "Full form retained but the ī in Azīz shortened to 'i'. Common in official documents and more formal contexts."
+  },
+  {
+    "id": "v-010",
+    "input_variant": "Faosat",
+    "normalized_variant": "faosat",
+    "canonical_name_id": "cn-005",
+    "yoruba_pronunciation": "Fa-ò-sat",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Fawziyyah' (فَوْزِيَّة) underwent significant phonological change. The diphthong 'aw' became 'ao' (representing the Yorùbá open-o sound). The feminine suffix '-iyyah' collapsed to '-at', a common Yorùbá rendering of Arabic feminine -at/ah endings."
+  },
+  {
+    "id": "v-011",
+    "input_variant": "Fausat",
+    "normalized_variant": "fausat",
+    "canonical_name_id": "cn-005",
+    "yoruba_pronunciation": "Fau-sat",
+    "confidence": "high",
+    "adaptation_notes": "Alternative spelling of Faosat using 'au' rather than 'ao' to represent the Arabic diphthong 'aw'. Equally common in Yorùbá Muslim families."
+  },
+  {
+    "id": "v-012",
+    "input_variant": "Moriamo",
+    "normalized_variant": "moriamo",
+    "canonical_name_id": "cn-006",
+    "yoruba_pronunciation": "Mò-ri-a-mò",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Maryam' (مَرْيَم) passed through Hausa and then Yorùbá oral transmission, gaining the diminutive/affectionate suffix '-o' common in Yorùbá. The 'ary' metathesised to 'ori' and an 'a' was inserted for syllable structure, giving 'Moriam' and then 'Moriamo'."
+  },
+  {
+    "id": "v-013",
+    "input_variant": "Mariam",
+    "normalized_variant": "mariam",
+    "canonical_name_id": "cn-006",
+    "yoruba_pronunciation": "Ma-ri-am",
+    "confidence": "high",
+    "adaptation_notes": "More direct adaptation of 'Maryam', with 'y' becoming 'i' (a standard Yorùbá consonant substitution). Used by both Muslim and Christian Yorùbá families."
+  },
+  {
+    "id": "v-014",
+    "input_variant": "Raliat",
+    "normalized_variant": "raliat",
+    "canonical_name_id": "cn-007",
+    "yoruba_pronunciation": "Ra-li-at",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Rāḍiyah' (رَاضِيَة) lost the emphatic ḍ (which has no Yorùbá equivalent) and was replaced with 'l', a more sonorous consonant. The '-iyyah' suffix again collapsed to '-at'. The long ā was shortened."
+  },
+  {
+    "id": "v-016",
+    "input_variant": "Sikiru",
+    "normalized_variant": "sikiru",
+    "canonical_name_id": "cn-008",
+    "yoruba_pronunciation": "Sì-kì-rù",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Shakūr' (شُكُور) was borrowed into Yorùbá as 'Sikiru'. The 'sh' was simplified to 's' (Yorùbá lacks the 'sh' phoneme in indigenous words). The long ū became 'u', and the vowels shifted under Yorùbá vowel harmony rules."
+  },
+  {
+    "id": "v-017",
+    "input_variant": "Mutiu",
+    "normalized_variant": "mutiu",
+    "canonical_name_id": "cn-009",
+    "yoruba_pronunciation": "Mù-ti-ù",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Muṭīʿ' (مُطِيع) adapted into Yorùbá as 'Mutiu'. The emphatic ṭ was replaced with the plain 't'. The ī vowel collapsed, and the final ʿ (ayin) — a pharyngeal consonant absent in Yorùbá — was dropped, replaced with the open vowel 'u'."
+  },
+  {
+    "id": "v-018",
+    "input_variant": "Ramota",
+    "normalized_variant": "ramota",
+    "canonical_name_id": "cn-022",
+    "yoruba_pronunciation": "Ra-mo-ta",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Ramaḍān' (رَمَضَان) was adapted as a female name 'Ramota' in Yorùbá. The emphatic ḍ shifted to 't', the ān suffix became 'a', and the name was feminised. Common for girls born during Ramadan."
+  },
+  {
+    "id": "v-019",
+    "input_variant": "Ramadan",
+    "normalized_variant": "ramadan",
+    "canonical_name_id": "cn-010",
+    "yoruba_pronunciation": "Ra-ma-dan",
+    "confidence": "high",
+    "adaptation_notes": "Direct transliteration of the Arabic month name, used as a personal name. The emphatic ḍ is typically written as plain 'd'."
+  },
+  {
+    "id": "v-022",
+    "input_variant": "Hafsat",
+    "normalized_variant": "hafsat",
+    "canonical_name_id": "cn-016",
+    "yoruba_pronunciation": "Haf-sat",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Ḥafṣah' (حَفْصَة) adapted into the Yorùbá '-at' suffix pattern. The 'ḥ' (voiceless pharyngeal fricative) is realised as plain 'h'. Extremely common in Yorùbá Muslim families."
+  },
+  {
+    "id": "v-023",
+    "input_variant": "Abdullahi",
+    "normalized_variant": "abdullahi",
+    "canonical_name_id": "cn-017",
+    "yoruba_pronunciation": "Ab-dul-la-hi",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'ʿAbdullāh' adapted with the addition of a final 'i', a Hausa/Fulani suffix that has spread into Nigerian Muslim naming conventions across ethnic groups."
+  },
+  {
+    "id": "v-024",
+    "input_variant": "Abdullah",
+    "normalized_variant": "abdullah",
+    "canonical_name_id": "cn-017",
+    "yoruba_pronunciation": "Ab-dul-lah",
+    "confidence": "high",
+    "adaptation_notes": "Standard transliteration of ʿAbdullāh used across the Muslim world. Very common in formal written contexts."
+  },
+  {
+    "id": "v-025",
+    "input_variant": "Safiat",
+    "normalized_variant": "safiat",
+    "canonical_name_id": "cn-023",
+    "yoruba_pronunciation": "Sa-fi-at",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Ṣafiyyah' (صَفِيَّة) adapted into the Yorùbá '-at' pattern. The emphatic ṣ became plain 's'. The doubled '-iyyah' suffix collapsed to '-iat' then '-at'."
+  },
+  {
+    "id": "v-026",
+    "input_variant": "Khadijat",
+    "normalized_variant": "khadijat",
+    "canonical_name_id": "cn-024",
+    "yoruba_pronunciation": "Kha-di-jat",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Khadījah' (خَدِيجَة) adopted the Yorùbá '-at' ending, giving 'Khadijat'. The kh consonant (a velar fricative) is retained in Yorùbá spelling though often pronounced as 'k' or 'h' in local speech."
+  },
+  {
+    "id": "v-027",
+    "input_variant": "Mustapha",
+    "normalized_variant": "mustapha",
+    "canonical_name_id": "cn-025",
+    "yoruba_pronunciation": "Mus-ta-pha",
+    "confidence": "high",
+    "adaptation_notes": "The Arabic 'Muṣṭafā' (مُصْطَفَى) spelled with 'ph' instead of 'f' — an older digraph used in West African and colonial-era romanisations of Arabic names. The emphatic ṭ became plain 't'."
+  },
+  {
+    "id": "v-028",
+    "input_variant": "Mustafa",
+    "normalized_variant": "mustafa",
+    "canonical_name_id": "cn-025",
+    "yoruba_pronunciation": "Mus-ta-fa",
+    "confidence": "high",
+    "adaptation_notes": "Modern standard transliteration of Muṣṭafā. Both 'Mustapha' and 'Mustafa' are in common use in Yorùbá Muslim communities."
+  },
+  {
+    "id": "v-030",
+    "input_variant": "Zainab",
+    "normalized_variant": "zainab",
+    "canonical_name_id": "cn-012",
+    "yoruba_pronunciation": "Zai-nab",
+    "confidence": "high",
+    "adaptation_notes": "The 'ay' diphthong in Zaynab is represented as 'ai' — standard across much of the Muslim world. Very common spelling in Nigerian official documents."
+  }
+]
