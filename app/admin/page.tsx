@@ -48,7 +48,6 @@ export default async function AdminPage() {
 
   return (
     <div className="mx-auto w-full max-w-3xl px-4 py-10 sm:px-6">
-      {/* Header */}
       <div className="mb-8 flex items-center justify-between">
         <div>
           <h1 className="text-xl font-bold text-foreground">Admin — Pending Submissions</h1>
@@ -62,7 +61,6 @@ export default async function AdminPage() {
         </span>
       </div>
 
-      {/* Empty state */}
       {pending.length === 0 && (
         <div className="flex flex-col items-center gap-3 rounded-2xl border border-border/60 bg-muted/20 py-16 text-center">
           <CheckCircleIcon weight="duotone" className="size-10 text-emerald-500" aria-hidden="true" />
@@ -71,7 +69,6 @@ export default async function AdminPage() {
         </div>
       )}
 
-      {/* Submission list */}
       {pending.length > 0 && (
         <ol className="flex flex-col gap-6" aria-label="Pending submissions">
           {pending.map((sub) => (
@@ -79,7 +76,6 @@ export default async function AdminPage() {
               key={sub.id}
               className="rounded-2xl border border-border/60 bg-card p-5 sm:p-6"
             >
-              {/* Submitted name + date */}
               <div className="mb-4 flex flex-wrap items-start justify-between gap-2">
                 <div>
                   <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground/60">
@@ -101,7 +97,6 @@ export default async function AdminPage() {
                 </time>
               </div>
 
-              {/* Suggested mapping */}
               {sub.suggested_mapping && (
                 <div className="mb-3">
                   <p className="text-xs font-medium text-muted-foreground/70">
@@ -111,7 +106,6 @@ export default async function AdminPage() {
                 </div>
               )}
 
-              {/* User notes */}
               {sub.user_notes && (
                 <div className="mb-5 rounded-xl bg-muted/30 p-3">
                   <p className="text-xs font-medium text-muted-foreground/70">Notes</p>
@@ -121,7 +115,6 @@ export default async function AdminPage() {
                 </div>
               )}
 
-              {/* ── Approve form ─────────────────────────────────────────── */}
               <form
                 action={approveSubmission}
                 className="mb-3 rounded-xl border border-emerald-500/20 bg-emerald-500/5 p-4"
@@ -132,7 +125,6 @@ export default async function AdminPage() {
                 </p>
 
                 <div className="grid gap-3 sm:grid-cols-2">
-                  {/* Canonical name selector */}
                   <div className="flex flex-col gap-1 sm:col-span-2">
                     <label
                       htmlFor={`canonical-${sub.id}`}
@@ -155,7 +147,6 @@ export default async function AdminPage() {
                     </select>
                   </div>
 
-                  {/* Yorùbá pronunciation */}
                   <div className="flex flex-col gap-1">
                     <label
                       htmlFor={`pron-${sub.id}`}
@@ -172,7 +163,6 @@ export default async function AdminPage() {
                     />
                   </div>
 
-                  {/* Confidence */}
                   <div className="flex flex-col gap-1">
                     <label
                       htmlFor={`conf-${sub.id}`}
@@ -204,7 +194,6 @@ export default async function AdminPage() {
                 </button>
               </form>
 
-              {/* ── Reject form ──────────────────────────────────────────── */}
               <form action={rejectSubmission}>
                 <input type="hidden" name="submission_id" value={sub.id} />
                 <button

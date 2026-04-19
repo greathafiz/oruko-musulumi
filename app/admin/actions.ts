@@ -64,9 +64,8 @@ const approveSchema = z.object({
 })
 
 export async function approveSubmission(
-  _prev: unknown,
   formData: FormData,
-): Promise<{ error?: string }> {
+) {
   await requireAdmin()
 
   console.log({ formData })
@@ -75,14 +74,15 @@ export async function approveSubmission(
   if (!result.success) {
     const fieldErrors = z.treeifyError(result.error).properties
 
-    return {
-      error:
-        fieldErrors?.canonical_name_id?.errors[0] ||
+    console.error(
+      "Validation error:",
+      fieldErrors?.canonical_name_id?.errors[0] ||
         fieldErrors?.yoruba_pronunciation?.errors[0] ||
         fieldErrors?.confidence?.errors[0] ||
         fieldErrors?.submission_id?.errors[0] ||
-        "An error occurred while approving the submission.",
-    }
+        "An error occurred while approving the submission."
+    )
+    return
   }
 
   const { submission_id, canonical_name_id, yoruba_pronunciation, confidence } =
@@ -93,7 +93,10 @@ export async function approveSubmission(
   const pending: ContributionSubmission[] = JSON.parse(pendingRaw)
   const submission = pending.find((s) => s.id === submission_id)
 
-  if (!submission) return { error: "Submission not found." }
+  if (!submission) {
+    console.error("Submission not found.")
+    return
+  }
 
   // Build new variant
   const newVariant: NameVariant = {
@@ -124,9 +127,8 @@ export async function approveSubmission(
 // ── Reject action ─────────────────────────────────────────────────────────────
 
 export async function rejectSubmission(
-  _prev: unknown,
   formData: FormData,
-): Promise<{ error?: string }> {
+) {
   await requireAdmin()
 
   const submission_id = formData.get("submission_id") as string
