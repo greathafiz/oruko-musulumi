@@ -18,6 +18,15 @@
     "adaptation_notes": "An alternative Yorùbá spelling retaining the 'a' vowel closer to the Arabic original. Both 'Abdulsamiu' and 'Abdulsemiu' map to the same canonical name."
   },
   {
+    "id": "v-031",
+    "input_variant": "Semiu",
+    "normalized_variant": "semiu",
+    "canonical_name_id": "cn-001",
+    "yoruba_pronunciation": "Sé-mi-ù",
+    "confidence": "high",
+    "adaptation_notes": "A shortened form of Abdulsemiu, common in Yorùbá Muslim communities."
+  },
+  {
     "id": "v-003",
     "input_variant": "Sulaimon",
     "normalized_variant": "sulaimon",

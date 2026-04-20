@@ -1,5 +1,4 @@
 "use server"
-
 import { z } from "zod"
 import { promises as fs } from "node:fs"
 import path from "node:path"
@@ -63,9 +62,7 @@ const approveSchema = z.object({
   confidence: z.enum(["high", "medium", "low"]).default("medium"),
 })
 
-export async function approveSubmission(
-  formData: FormData,
-) {
+export async function approveSubmission(formData: FormData) {
   await requireAdmin()
 
   console.log({ formData })
@@ -80,7 +77,7 @@ export async function approveSubmission(
         fieldErrors?.yoruba_pronunciation?.errors[0] ||
         fieldErrors?.confidence?.errors[0] ||
         fieldErrors?.submission_id?.errors[0] ||
-        "An error occurred while approving the submission."
+        "An error occurred while approving the submission.",
     )
     return
   }
@@ -126,9 +123,7 @@ export async function approveSubmission(
 
 // ── Reject action ─────────────────────────────────────────────────────────────
 
-export async function rejectSubmission(
-  formData: FormData,
-) {
+export async function rejectSubmission(formData: FormData) {
   await requireAdmin()
 
   const submission_id = formData.get("submission_id") as string
