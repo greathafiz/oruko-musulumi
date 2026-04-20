@@ -6,6 +6,7 @@ import { ThemeProvider } from "@/components/ui/theme-provider";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import Script from "next/script";
 
 const manrope = Manrope({ subsets: ['latin'], variable: '--font-sans' });
 const arabic = Noto_Naskh_Arabic({ subsets: ['arabic'], variable: '--font-arabic' });
@@ -84,6 +85,18 @@ export default function RootLayout({
             <Footer />
           </TooltipProvider>
         </ThemeProvider>
+
+        {/* Google tag (gtag.js) */}
+        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-ZGDT0F661J" strategy="afterInteractive" />
+        <Script id="gtag" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+  
+            gtag('config', 'G-ZGDT0F661J');
+            `}
+        </Script>
       </body>
     </html>
   );
